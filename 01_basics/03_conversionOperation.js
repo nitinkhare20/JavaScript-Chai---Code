@@ -14,7 +14,7 @@
 
 let Ans=1
 let booleanIsAns=Boolean(Ans)
-console.log(booleanIsAns); // true
+// console.log(booleanIsAns); // true
 
 //1 => true; // 0 => false
 // "" => false; 
@@ -22,5 +22,37 @@ console.log(booleanIsAns); // true
 
 let someNum=33
 let stringNum=String(someNum)
-console.log(stringNum); // "33"
-console.log(typeof stringNum); // string
+// console.log(stringNum); // "33"
+// console.log(typeof stringNum); // string
+
+
+
+
+// *************************** Operations ***************************
+let value=3
+let negValue=-value
+// console.log(negValue)
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2/2) 
+// console.log(2%2) 
+// console.log(2**2) // 2^2 = 4
+
+let str1="nitin"
+let str2=" khare"
+let str3=str1 + str2
+// console.log(str3); // nitinkhare
+
+// console.log("1" + 2) // "12"
+// console.log(1 + "2"); "12"
+// console.log("1"+ 2 + 2); // "122"
+// console.log(1 + 2 + "2");  // "32"
+
+// console.log(+true); //1
+
+
+
+
+
